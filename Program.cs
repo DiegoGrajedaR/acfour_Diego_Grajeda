@@ -5,9 +5,7 @@ namespace acfour_Diego_Grajeda
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Hello, World!");
-
         }
     }
 }
