@@ -2,10 +2,10 @@
 
 
 ### 1. Crea una solució de tipus consola al teu IDE (sense cap codi) i inicialitza-la al teu git i Github. El nom de la solució (i repositori) ha de seguir la notació següent: acfour_name_surname (sense accents ni altres caràcters).
-imatges_acfour/acfour_ex1.1.png
+![img1](imatges_acfour/acfour_ex1.1.png)
 (solution tipus consola creada en el IDE Visual Studio Community amb el nom solicitat)
 
-[imatges_acfour/acfour_ex1.2.png]
+![img2](imatges_acfour/acfour_ex1.2.png)
 (repositori creat desde el Github de Visual Studio Community)
 
 
