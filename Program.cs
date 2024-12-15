@@ -12,8 +12,19 @@ namespace acfour_Diego_Grajeda
 
             for (int i = 0; i < arraySize; i++)
             {
-                Console.Write($"Introdueix el nombre {i + 1}: ");
-                arrayNums[i] = int.Parse(Console.ReadLine());
+                int num;
+                do
+                {
+                    Console.Write($"Introdueix el nombre {i + 1} (ha de ser més gran que 0 o igual): ");
+                    num = int.Parse(Console.ReadLine());
+
+                    if (num < 0)
+                    {
+                        Console.WriteLine("El número introduït no és vàlid.");
+                    }
+                } while (num < 0);
+
+                arrayNums[i] = num;
             }
 
             Console.WriteLine("Els nombres introduïts són:");

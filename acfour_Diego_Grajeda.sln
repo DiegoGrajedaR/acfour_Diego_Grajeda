@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acfour_Diego_Grajeda", "acfour_Diego_Grajeda.csproj", "{2C83A57A-3724-4838-A146-1EF6A714004C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_acfour", "..\UnitTest_acfour\UnitTest_acfour.csproj", "{43637A3D-6B6A-4CE7-A4D9-6178FDD310A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2C83A57A-3724-4838-A146-1EF6A714004C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C83A57A-3724-4838-A146-1EF6A714004C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C83A57A-3724-4838-A146-1EF6A714004C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43637A3D-6B6A-4CE7-A4D9-6178FDD310A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43637A3D-6B6A-4CE7-A4D9-6178FDD310A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43637A3D-6B6A-4CE7-A4D9-6178FDD310A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43637A3D-6B6A-4CE7-A4D9-6178FDD310A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
