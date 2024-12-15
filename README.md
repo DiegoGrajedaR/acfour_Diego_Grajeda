@@ -5,7 +5,7 @@
 imatges_acfour/acfour_ex1.1.png
 (solution tipus consola creada en el IDE Visual Studio Community amb el nom solicitat)
 
-imatges_acfour/acfour_ex1.2.png
+[imatges_acfour/acfour_ex1.2.png]
 (repositori creat desde el Github de Visual Studio Community)
 
 
