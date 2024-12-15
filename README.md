@@ -28,4 +28,4 @@
 ### 7. Pujar al readme els enllaços que heu consultat. En cas de no haver-ne consultat cap, indicar-ho al readme.
 https://sites.google.com/itb.cat/entornsprogramacioiprocesos/teoria/t1-introducci%C3%B3/2-disseny-dalgorismes/2-2-disseny/2-2-3-diagrames-de-flux
 
-####(Sites de programació amb la teoria. Consultat: 15/12/24)
+Sites de programació amb la teoria. Consultat: 15/12/24)
