@@ -21,6 +21,26 @@ namespace acfour_Diego_Grajeda
             {
                 Console.WriteLine(arrayNums[i]);
             }
+
+            for (int i = 0; i < arrayNums.Length - 1; i++)
+            {
+                for (int j = 0; j < arrayNums.Length - 1 - i; j++)
+                {
+                    if (arrayNums[j] < arrayNums[j + 1])
+                    {
+                        int aux = arrayNums[j];
+
+                        arrayNums[j] = arrayNums[j + 1];
+
+                        arrayNums[j + 1] = aux;
+                    }
+                }
+            }
+            Console.WriteLine("Els nombres ordenats en ordre descendent són:");
+            for (int i = 0; i < arraySize; i++)
+            {
+                Console.WriteLine(arrayNums[i]);
+            }
         }
     }
 }
